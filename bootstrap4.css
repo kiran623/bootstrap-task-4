@@ -1,0 +1,55 @@
+.col-12 {
+	height:400px;
+	background-color:darkred;
+}
+
+.right{
+	float:right;
+}
+.col-2{
+	padding-left:20px;
+	margin-top:50px;
+
+}
+.pic{
+	margin-top:20px;
+}
+.footer{
+	background-color:darkred;
+	height:300px;
+	padding-top:70px;
+}
+
+.image8{
+	float:right;
+}
+
+
+@media all and (max-width:720px) {
+
+
+
+	.col-2{
+		width:50%;
+	}
+
+}
+
+
+@media all and (max-width:520px){
+
+
+	.col-2{
+		width:50%;
+	}
+
+}
+@media all and (max-width:320px){
+
+
+
+	.col-2{
+		width:50px;
+	}
+
+}
